@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "tarosmp.minehost.com",
-    "port": 25575,
+    "ip": "coconutcraftsmp.mcsh.io",
+    "port": 14963,
     "version": "",
     "try-creative": false
   },
