@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "lalamoSMP.aternos.me",
-    "port": 59158,
+    "ip": "guiribasmp.aternos.me",
+    "port": 52762,
     "version": "",
     "try-creative": false
   },
