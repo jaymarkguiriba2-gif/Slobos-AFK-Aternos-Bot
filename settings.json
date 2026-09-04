@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "guiribasmp.aternos.me",
+    "ip": "guiribasmp.aternos.me:52762",
     "port": 52762,
     "version": "",
     "try-creative": false
